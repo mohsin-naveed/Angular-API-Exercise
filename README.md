@@ -1,6 +1,3 @@
-# Gallagher Re: Technical Interview
-
-The project is an ASP.NET Core application with Angular to test basic technical skills of the candidates for Software Engineering positions.
 
 ## Structure
 Application uses [ASP.NET Core 3.1](https://docs.microsoft.com/en-gb/aspnet/core/web-api/?view=aspnetcore-3.1)  
